@@ -17,7 +17,7 @@ public class WebCrawler {
     public static void main(String[] args) {
         // TODO code application logic here
         Consumer C = new Consumer();
-        C.Start();
+        C.start();
     }
     
 }
